@@ -19,7 +19,7 @@ Activate virtual environment if created and to install the required packages and
 ```bash
 pip install -r requirements.txt
 ```
-> All the details of this Project had been explained [here](https://github.com/AI-kartheek/Apple-Stock-Price-Forecasting/blob/main/stacked%20LSTM%20for%20Apple%20stock%20market%20prediction%20and%20forecasting.ipynb) right from ``Data Collection`` till ``Forecasting``.
+> All the Code Explanation of this Project had been explained [here](https://github.com/AI-kartheek/Apple-Stock-Price-Forecasting/blob/main/stacked%20LSTM%20for%20Apple%20stock%20market%20prediction%20and%20forecasting.ipynb) right from ``Data Collection`` till ``Forecasting``.
 
 ## Project Summary
 * Collect Stock Data
