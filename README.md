@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```
 > All the Code Explanation of this Project had been explained [here](https://github.com/AI-kartheek/Apple-Stock-Price-Forecasting/blob/main/stacked%20LSTM%20for%20Apple%20stock%20market%20prediction%20and%20forecasting.ipynb) right from ``Data Collection`` till ``Forecasting``.
 
-## Project Summary
+## Notebook Summary
 * Collect Stock Data
 * Load Data
 * Train Test Split
